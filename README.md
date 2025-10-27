@@ -18,6 +18,8 @@ there are multiple files in this dataset which includes:
 -olist_sellers_dataset
 -product_category_name_translation
 
+##dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ##🧮 Key SQL Techniques Used
 -Aggregate Functions: SUM(), AVG(), COUNT(), ROUND()
 -Window Functions: LAG(), ROW_NUMBER() for trend and repeat customer analysis
